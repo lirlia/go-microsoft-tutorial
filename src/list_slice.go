@@ -48,4 +48,12 @@ func main() {
 	quarter2Extended := quarter2[:4]
 	fmt.Println(quarter2, len(quarter2), cap(quarter2))
 	fmt.Println(quarter2Extended, len(quarter2Extended), cap(quarter2Extended))
+
+	// map
+	// pythonでいうdictionary型だ。key-value
+	studentsAge := map[string]int{
+		"john": 32,
+		"bob":  31,
+	}
+	fmt.Println(studentsAge)
 }
