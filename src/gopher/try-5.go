@@ -23,7 +23,7 @@ func main() {
 		// ランダム値の生成
 		t := time.Now().UnixNano()
 		rand.Seed(t)
-		result = rand.Intn(10) / 6
+		result = rand.Intn(10)
 
 		// 出目によって出力変更
 		switch result {
