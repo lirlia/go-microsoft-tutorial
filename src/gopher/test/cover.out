@@ -1,0 +1,13 @@
+mode: set
+test/sosuu.go:9.27,11.11 2 1
+test/sosuu.go:14.2,14.26 1 1
+test/sosuu.go:33.2,33.13 1 1
+test/sosuu.go:11.11,13.3 1 1
+test/sosuu.go:14.26,17.13 1 1
+test/sosuu.go:23.3,23.26 1 1
+test/sosuu.go:17.13,19.12 2 1
+test/sosuu.go:23.26,24.16 1 1
+test/sosuu.go:28.4,28.24 1 1
+test/sosuu.go:24.16,25.10 1 1
+test/sosuu.go:28.24,30.5 1 1
+test/sosuu.go:35.13,37.2 1 0
