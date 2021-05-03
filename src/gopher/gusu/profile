@@ -1,0 +1,5 @@
+mode: set
+test/gusu/gusu.go:3.26,4.15 1 1
+test/gusu/gusu.go:6.9,7.14 1 1
+test/gusu/gusu.go:9.10,10.15 1 1
+test/gusu/gusu.go:14.14,16.2 0 0
